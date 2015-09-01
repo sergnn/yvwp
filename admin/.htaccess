@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName 'yaroslavvolkov.com admin panel'
+AuthUserFile /home2/u91689/yaroslavvolkovcom/.htpasswd
+Require valid-user

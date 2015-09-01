@@ -1,0 +1,5 @@
+
+User-agent : *
+User-agent : Yandex
+User-agent : Googlebot
+Disallow : 
